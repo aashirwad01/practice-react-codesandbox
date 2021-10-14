@@ -8,6 +8,7 @@ ReactDOM.render(
   <StrictMode>
     <App />
     <App />
+    <App />
   </StrictMode>,
   rootElement
 );
