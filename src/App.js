@@ -1,5 +1,5 @@
 import "./styles.css";
-import ReactDOM from "react-dom";
+
 import { useState } from "react";
 export default function App(props) {
   //functionality goes here
@@ -19,7 +19,7 @@ export default function App(props) {
 const Ele = (props) => {
   return (
     <>
-      <h1 style={{ color: props.text }}>Practice React </h1>
+      <h1 style={{ color: props.text }}>Practice React Method 1 </h1>
     </>
   );
 };
